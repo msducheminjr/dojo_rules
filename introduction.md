@@ -9,3 +9,7 @@ Deadly skills
 *JavaScript
 *Ruby
 *HTML/CSS
+<<<<<<< .merge_file_PKXAvf
+*Killing history using git rebase
+=======
+>>>>>>> .merge_file_Z4J1Nf
